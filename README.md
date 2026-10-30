@@ -1,4 +1,15 @@
-## Hi there 👋
+
+Interested in #forth & #retrocomputing, music and sounds
+
+## My projects
+
+- https://github.com/stars/luginf/lists/original-works
+
+  
+## My forks
+
+- https://github.com/stars/luginf/lists/forks
+  
 
 <!--
 **luginf/luginf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

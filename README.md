@@ -1,5 +1,5 @@
 
-Interested in #forth & #retrocomputing, music and sounds
+Interested in forth & retrocomputing, music and sounds
 
 ## My projects
 

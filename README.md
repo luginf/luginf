@@ -3,12 +3,12 @@ Interested in #forth & #retrocomputing, music and sounds
 
 ## My projects
 
-- https://github.com/stars/luginf/lists/original-works
+- [https://github.com/stars/luginf/lists/workshop](https://github.com/stars/luginf/lists/workshop)
 
   
-## My forks
+## Contributions
 
-- https://github.com/stars/luginf/lists/forks
+- [https://github.com/stars/luginf/lists/forks](https://github.com/stars/luginf/lists/forks)
   
 
 <!--
